@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Feel free to use the following template
+#### Desktop screen view
+![image](https://github.com/user-attachments/assets/6a72f1ea-bf4c-4ac1-8bfd-dc2c4ffca6c7)
+#### Mobile screen view
+![image](https://github.com/user-attachments/assets/9dc24e83-833d-41d3-a7a5-37412972857e)
+
 
 ## Getting Started
 
